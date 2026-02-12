@@ -148,4 +148,5 @@ system-ui, -apple-system, Segoe UI, Roboto, Arial
 ##Webpage Screenshot
 
 
-<img width="1900" height="9740" alt="cursor-webpage-using-html-row-css vercel app_" src="https://github.com/user-attachments/assets/2041a97f-e9ba-4f0c-8b09-5c0025069b0c" />
+![Uploading cursor-webpage-using-html-row-css.vercel.app_.png…]()
+
