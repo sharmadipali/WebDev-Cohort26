@@ -1,5 +1,7 @@
 ##Cursor Landing Page – UI Recreation
 
+##Live Site: https://cursor-webpage-using-html-row-css.vercel.app/
+
 -This project is a frontend UI recreation of the Cursor website landing page, built using HTML and CSS. The goal of this project is to practice layout structuring, typography, spacing, and dark-theme design consistency.
 
 ---
@@ -148,4 +150,5 @@ system-ui, -apple-system, Segoe UI, Roboto, Arial
 ##Webpage Screenshot
 
 
-<img width="1900" height="9740" alt="cursor-webpage-using-html-row-css vercel app_" src="https://github.com/user-attachments/assets/2041a97f-e9ba-4f0c-8b09-5c0025069b0c" />
+![Uploading cursor-webpage-using-html-row-css.vercel.app_.png…]()
+
