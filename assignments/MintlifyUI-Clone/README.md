@@ -2,7 +2,7 @@
 
 ##Live Site: https://mintlify-clone-nu.vercel.app/
 
-##  Project Overview
+## Project Overview
 
 This project is a **UI recreation of the Mintlify landing page**, focusing on layout structure, visual hierarchy, typography, and color consistency.\
 The goal was to closely match the original design while using clean, semantic HTML and modern CSS practices.
@@ -25,7 +25,7 @@ The following sections from the original Mintlify website were recreated:
 
 ### 2. **Hero Section**
 
-- Main headline: *“The Intelligent Knowledge Platform”*
+- Main headline: _“The Intelligent Knowledge Platform”_
 
 - Supporting description text
 
@@ -58,7 +58,6 @@ The following sections from the original Mintlify website were recreated:
 - “Built for the intelligence age”
 
 - Feature cards explaining:
-
   - Build for people and AI
 
   - Self-updating knowledge management
@@ -112,7 +111,6 @@ The following sections from the original Mintlify website were recreated:
 The typography closely matches Mintlify’s clean and modern style:
 
 - **Primary Font:** `Inter`
-
   - Used for headings, body text, buttons, and navigation
 
   - Chosen for its readability and modern SaaS feel
@@ -125,12 +123,11 @@ font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 
 ---
 
-##  Colors Used
+## Colors Used
 
 ### Primary Brand Colors
 
 - **Dark Teal / Blue Gradient (Hero Section):**
-
   - `#0F4C5C`
 
   - `#0B7285`
@@ -138,7 +135,6 @@ font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   - Used for hero background and emphasis areas
 
 - **Primary Accent Green:**
-
   - `#16A34A`
 
   - Used for CTA buttons, icons, and highlights
@@ -158,13 +154,11 @@ font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 ### Button Colors
 
 - **Primary Button:**
-
   - Background: `#16A34A`
 
   - Text: `#FFFFFF`
 
 - **Secondary Button:**
-
   - Background: `#FFFFFF`
 
   - Border: `#D1D5DB`
@@ -173,7 +167,7 @@ font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 
 ---
 
-##  Design & Development Notes
+## Design & Development Notes
 
 - Semantic HTML elements were used (`header`, `main`, `section`, `footer`)
 
@@ -195,6 +189,4 @@ This UI recreation is based on the official **Mintlify landing page** design, us
 
 ## Webpage Screenshot
 
-<img width="1900" height="8149" alt="mintlify-clone-nu vercel app_" src="https://github.com/user-attachments/assets/66f968e7-7f03-4fd9-9b6d-5f38d118fd37" />
-
-
+![Mintlify landing page screenshot](mintlify-clone-nu.vercel.app_.png)
