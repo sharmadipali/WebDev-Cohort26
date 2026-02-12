@@ -149,6 +149,4 @@ system-ui, -apple-system, Segoe UI, Roboto, Arial
 
 ##Webpage Screenshot
 
-
-![Uploading cursor-webpage-using-html-row-css.vercel.app_.png…]()
-
+![Uploading cursor-webpage-using-html-row-css.vercel.app_.png…](cursor-webpage-using-html-row-css.vercel.app_.png)
