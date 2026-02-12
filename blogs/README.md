@@ -1,0 +1,160 @@
+<a href="https://hashnode.com/@dipali20">
+ <h1 align="center">Blogs</h1>
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipali-sh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Dipali2Sharma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+  </a>
+  <a href="https://hashnode.com/@dipali20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blogs&logo=hashnode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hashnode blog logo" />
+  </a>
+</p>
+
+<p align="center">
+  Showcase of all the learning I did through reading, understanding and writing the blogs for future devs.
+</p>
+  
+  [Git for Beginners: Basics and Essential Commands](https://sharmadipali14.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+  <a href="https://sharmadipali14.hashnode.dev/git-for-beginners-basics-and-essential-commands">
+      <p align=center>
+      <img width = "500px" alt="Git for Beginners: Basics and Essential Commands" src="assets/git-bigginers.webp">
+    <p>
+  </a>
+
+<br>
+
+[Why Version Control Exists: The Pendrive Problem](https://sharmadipali14.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+
+  <a href="https://sharmadipali14.hashnode.dev/why-version-control-exists-the-pendrive-problem">
+      <p align=center>
+      <img width = "500px" alt="Why Version Control Exists: The Pendrive Problem" src="./assets/Pendrive-problem.webp">
+    <p>
+  </a>
+
+<br>
+
+[Inside Git: How It Works and the Role of the .git Folder](https://sharmadipali14.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
+
+  <a href="https://sharmadipali14.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder">
+      <p align=center>
+      <img width = "500px" alt="Inside Git: How It Works and the Role of the .git Folder" src="./assets/folder-git.webp">
+    <p>
+  </a>
+
+<br>
+
+[Understanding Network Devices](https://sharmadipali14.hashnode.dev/understanding-network-devices)
+
+  <a href="https://sharmadipali14.hashnode.dev/understanding-network-devices">
+      <p align=center>
+      <img width = "500px" alt="Understanding Network Devices" src="./assets/network-device.webp">
+    <p>
+  </a>
+
+<br>
+
+[The Terminal's Hidden Power: Understanding cURL
+](https://sharmadipali14.hashnode.dev/the-terminals-hidden-power-understanding-curl)
+
+  <a href="https://sharmadipali14.hashnode.dev/the-terminals-hidden-power-understanding-curl">
+      <p align=center>
+      <img width = "500px" alt="The Terminal's Hidden Power: Understanding cURl" src="assets/curl.webp">
+    <p>
+  </a>
+
+<br>
+
+[How DNS Resolution Works](https://sharmadipali14.hashnode.dev/how-dns-resolution-works)
+
+  <a href="https://sharmadipali14.hashnode.dev/how-dns-resolution-works">
+      <p align=center>
+      <img width = "500px" alt="How DNS Resolution Works" src="./assets/dns-resolution.webp">
+    <p>
+  </a>
+
+<br>
+
+[DNS Record Types Explained](https://sharmadipali14.hashnode.dev/dns-record-types-explained)
+
+  <a href="https://sharmadipali14.hashnode.dev/dns-record-types-explained">
+      <p align=center>
+      <img width = "500px" alt="DNS Record Types Explained" src="./assets/dns-record.webp">
+    <p>
+  </a>
+
+<br>
+
+[Learn Emmet Abbreviation](https://sharmadipali14.hashnode.dev/learn-emmet-abbreviation)
+
+  <a href="https://sharmadipali14.hashnode.dev/learn-emmet-abbreviation">
+      <p align=center>
+      <img width = "500px" alt="Learn Emmet Abbreviation" src="./assets/emmet.webp">
+    <p>
+  </a>
+
+<br>
+
+[Understanding HTML Tags and Elements](https://sharmadipali14.hashnode.dev/understanding-html-tags-and-elements)
+<a href="https://sharmadipali14.hashnode.dev/understanding-html-tags-and-elements">
+
+<p align=center>
+<img width = "500px" alt="Understanding HTML Tags and Elements" src="./assets/html.webp">
+<p>
+</a>
+
+<br>
+
+[CSS Selectors 101: Targeting Elements with Precision](https://sharmadipali14.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
+<a href="https://sharmadipali14.hashnode.dev/css-selectors-101-targeting-elements-with-precision">
+
+<p align=center>
+<img width = "500px" alt="CSS Selectors 101: Targeting Elements with Precision" src="./assets/css.webp">
+<p>
+</a>
+
+<br>
+
+[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://sharmadipali14.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+<a href="https://sharmadipali14.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+
+<p align=center>
+<img width = "500px" alt="TCP vs UDP: When to Use What, and How TCP Relates to HTTP" src="./assets/TCP-UDP.webp">
+<p>
+</a>
+
+<br>
+
+[TCP Working: 3-Way Handshake & Reliable Communication
+](https://sharmadipali14.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+<a href="https://sharmadipali14.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
+
+<p align=center>
+<img width = "500px" alt="TCP Working: 3-Way Handshake & Reliable Communication" src="assets/TCP-3wayhandsheck.webp">
+<p>
+</a>
+
+<br>
+
+[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://sharmadipali14.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+<a href="https://sharmadipali14.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
+
+<p align=center>
+<img width = "500px" alt="How a Browser Works: A Beginner-Friendly Guide to Browser Internals" src="./assets/Browser.webp">
+<p>
+</a>
+
+<br>
+
+[JavaScript Beginner Friendly : Part-1](https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1)
+<a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
+
+<p align=center>
+<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/JS-part1.webp">
+<p>
+</a>
+
+<br>
