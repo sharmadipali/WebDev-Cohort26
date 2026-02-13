@@ -1,5 +1,7 @@
 # HTML Resume Page
 
+Live link:https://sharmadipali.netlify.app/
+
 This project is a basic HTML resume webpage created as part of a learning assignment. It demonstrates the use of semantic HTML elements to structure a professional resume layout.
 
 ## Project Overview
