@@ -108,12 +108,10 @@
 
 <br>
 
-[CSS Selectors 101: Targeting Elements with Precision](https://sharmadipali14.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
-<a href="https://sharmadipali14.hashnode.dev/css-selectors-101-targeting-elements-with-precision">
+[Understanding HTML Tags and Elements](https://sharmadipali14.hashnode.dev/understanding-html-tags-and-elements)
+<a href="https://sharmadipali14.hashnode.dev/understanding-html-tags-and-elements">
 
-<p align="center">
-
-<img width = "500px" alt="CSS Selectors 101: Targeting Elements with Precision" src="./assets/css.webp">
+<img width = "500px" alt="Understanding HTML Tags and Elements" src="./assets/css.webp">
 <p>
 </a>
 
@@ -154,7 +152,7 @@
 <a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
 
 <p align="center">
-<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/JS-part1.webp">
+<img width = "500px" alt="JavaScript Beginner Friendly : Part-1" src="./assets/JS-part1.webp">
 <p>
 </a>
 
@@ -164,7 +162,7 @@
 <a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
 
 <p align="center">
-<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/variable-datatype.png">
+<img width = "500px" alt="Understanding Variables and Data Types in JavaScript" src="./assets/variable-datatype.png">
 <p>
 </a>
 
@@ -174,7 +172,7 @@
 <a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
 
 <p align="center">
-<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/promises.png">
+<img width = "500px" alt="Understanding Promise in JavaScript" src="./assets/promises.png">
 <p>
 </a>
 
@@ -184,7 +182,7 @@
 <a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
 
 <p align="center">
-<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/JavaScript Operators.png">
+<img width = "500px" alt="JavaScript Operators" src="./assets/JavaScript Operators.png">
 <p>
 </a>
 
@@ -194,6 +192,6 @@
 <a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
 
 <p align="center">
-<img width = "500px" alt="JavaScript Beginner Friendly : Part-1m" src="./assets/conditional.png">
+<img width = "500px" alt="Control Flow in JavaScript: If, Else, and Switch Explained" src="./assets/conditional.png">
 <p>
 </a>
