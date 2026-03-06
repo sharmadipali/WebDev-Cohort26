@@ -125,3 +125,66 @@
 </a>
 
 <br>
+
+[TCP Working: 3-Way Handshake & Reliable Communication](https://sharmadipali14.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+<a href="https://sharmadipali14.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
+
+<img width = "500px" alt="TCP Working: 3-Way Handshake & Reliable Communication" src="./assets/TCP-3wayhandsheck.webp">
+<p>
+</a>
+
+<br>
+
+[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://sharmadipali14.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+<a href="https://sharmadipali14.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
+
+<img width = "500px" alt="How a Browser Works: A Beginner-Friendly Guide to Browser Internals" src="./assets/Browser.webp">
+<p>
+</a>
+
+<br>
+
+[JavaScript Beginner Friendly](https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1)
+<a href="https://sharmadipali14.hashnode.dev/javascript-beginner-friendly-part-1">
+
+<img width = "500px" alt="JavaScript Beginner Friendly" src="./assets/JS-part1.webp">
+<p>
+</a>
+
+<br>
+
+[Understanding Variables and Data Types in JavaScript](https://sharmadipali14.hashnode.dev/understanding-variables-and-data-types-in-javascript)
+<a href="https://sharmadipali14.hashnode.dev/understanding-variables-and-data-types-in-javascript">
+
+<img width = "500px" alt="Understanding Variables and Data Types in JavaScript" src="./assets/variable-datatype.png">
+<p>
+</a>
+
+<br>
+
+[Understanding Promise in JavaScript](https://sharmadipali14.hashnode.dev/understandingpromise-in-javascript)
+<a href="https://sharmadipali14.hashnode.dev/understandingpromise-in-javascript">
+
+<img width = "500px" alt="Understanding Promise in JavaScript" src="./assets/promises.png">
+<p>
+</a>
+
+<br>
+
+[JavaScript Operators: The Basics You Need to Know](https://sharmadipali14.hashnode.dev/javascript-operators)
+<a href="https://sharmadipali14.hashnode.dev/javascript-operators">
+
+<img width = "500px" alt="JavaScript Operators: The Basics You Need to Know" src="./assets/JavaScript Operators.png">
+<p>
+</a>
+
+<br>
+
+[Control Flow in JavaScript: If, Else, and Switch Explained](https://sharmadipali14.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained)
+<a href="https://sharmadipali14.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained">
+
+<img width = "500px" alt="Control Flow in JavaScript: If, Else, and Switch Explained" src="./assets/conditional.png">
+<p>
+</a>
+
+<br>
