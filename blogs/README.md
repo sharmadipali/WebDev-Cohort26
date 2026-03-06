@@ -116,3 +116,12 @@
 </a>
 
 <br>
+
+[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://sharmadipali14.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+<a href="https://sharmadipali14.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+
+<img width = "500px" alt="TCP vs UDP: When to Use What, and How TCP Relates to HTTP" src="./assets/TCP-UDP.webp">
+<p>
+</a>
+
+<br>
