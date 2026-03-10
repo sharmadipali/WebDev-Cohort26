@@ -206,3 +206,12 @@
 </a>
 
 <br>
+
+[JavaScript Arrays 101](https://sharmadipali14.hashnode.dev/javascript-arrays-101)
+<a href="https://sharmadipali14.hashnode.dev/javascript-arrays-101">
+
+<img width = "500px" alt="JavaScript Arrays 101" src="assets/array-101.png">
+<p>
+</a>
+
+<br>
