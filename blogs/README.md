@@ -215,3 +215,12 @@
 </a>
 
 <br>
+
+[Array Methods You Must Know](https://sharmadipali14.hashnode.dev/array-methods-you-must-know)
+<a href="https://sharmadipali14.hashnode.dev/array-methods-you-must-know">
+
+<img width = "500px" alt="Array Methods You Must Know" src="assets/array-methods.png">
+<p>
+</a>
+
+<br>
