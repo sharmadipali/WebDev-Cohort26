@@ -6,13 +6,13 @@
 <h1 align="center">Chai Aur Cohort</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipali-sh" target="_blank">
+  <a href="https://www.linkedin.com/in/sharmadipalidev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/Dipali2Sharma" target="_blank">
+  <a href="https://x.com/sharmadipalidev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
-  <a href="https://hashnode.com/@dipali20" target="_blank">
+  <a href="https://hashnode.com/@sharmadipalidev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blogs&logo=hashnode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hashnode blog logo" />
   </a>
 </p>
