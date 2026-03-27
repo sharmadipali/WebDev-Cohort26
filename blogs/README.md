@@ -260,3 +260,13 @@
 </a>
 
 <br>
+
+[What is a React](https://sharmadipali14.hashnode.dev/what-is-a-react)
+<a href="https://sharmadipali14.hashnode.dev/what-is-a-react">
+
+<img width = "500px" alt="What is a React" src="assets/react.png">
+<p>
+</a>
+
+<br>
+
