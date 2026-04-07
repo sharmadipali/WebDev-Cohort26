@@ -1,0 +1,133 @@
+User[color: Red] {
+  user_id seriel pk
+  first_name varchar(50) not null
+  last_name varchar(50) not null
+  email varchar unique not null
+  phone varchar(15)
+  password varchar
+  user_role enum['trainer', 'client','admin']
+  created_at timestamp
+  updated_at timestamp
+  }
+
+  Trainers[color: Blue] {
+  trainer_id seriel pk
+  user_id fk unique
+  experience int
+  specialties varchar
+  max_client int
+  certification text
+  is_available boolean
+  created_at timestamp
+  updated_at timestamp
+  }
+
+  Clients[color: Blue] {
+  client_id seriel pk
+  user_id fk unique
+  trainer_id fk 
+  date_of_birth date
+  gender emun['male','female','other']
+  height decimal
+  weight decimal
+  medical_conditions text
+  created_at timestamp
+  updated_at timestamp
+  }
+
+  Plans[color: Purple] {
+  plan_id seriel pk
+  trainer_id fk
+  plan_name varchar
+  duration_week int
+  price decimal
+  description varchar 
+  include_diet varchar
+  include_workout varchar
+  created_at timestamp
+  updated_at timestamp
+  }
+  
+  Subscriptions [color: Yellow] {
+  subscription_id seriel pk
+  client_id fk
+  plan_id fk
+  status enum['active', 'expired', 'cancelled'] not null
+  current_plan_start datetime not null
+  current_plan_end datetime not null
+  is_active boolean
+  created_at timestamp
+  updated_at timestamp
+  }
+
+  Payment[color: Purple] {
+    payment_id seriel pk
+    suscription_id fk
+    amount decimal(10,2) not null
+    payment_method enum['card','upi','cash','netbanking']
+    payment_status enum['succeeded', 'failed', 'refunded'] 
+    payment_gateway_ref varchar
+    created_at timestamp
+    updated_at timestamp
+  }
+
+  Sessions [color: Green] {
+  session_id seriel pk
+  trainer_id fk
+  client_id fk
+  session_date datetime NOT NULL
+  durations int
+  created_at timestamp
+  updated_at timestamp
+  }
+
+CheckIn[color: Purple] {
+  checkIn_id seriel pk
+  client_id int fk
+  session_id fk
+  checkIn_date datetime
+  workout_type enum['Strength', 'Cardio', 'Yoga']
+  avg_heart_rate int
+  calories_burned int
+  created_at timestamp
+  updated_at timestamp
+}
+
+  Progress_tracking[color: Green] {
+  progress_id seriel PK
+  client_id FK
+  weight decimal
+  body_fat decimal
+  muscle_mass decimal
+  notes text
+  weekly_checkIn boolean
+  created_at timestamp
+  updated_at timestamp
+  }
+
+User.user_id  > Trainers.user_id
+
+User.user_id  > Clients.user_id
+
+Trainers.trainer_id  > Clients.trainer_id
+
+Trainers.trainer_id  > Plans.trainer_id
+
+Trainers.trainer_id  > Sessions.trainer_id
+
+Clients.client_id > Sessions.client_id
+
+Clients.client_id  > Subscriptions.client_id
+
+Clients.client_id > CheckIn.client_id
+
+Clients.client_id  > Progress_tracking.client_id
+
+Plans.plan_id  > Subscriptions.plan_id
+
+Subscriptions.subscription_id >Payment.suscription_id
+
+
+
+
+  
