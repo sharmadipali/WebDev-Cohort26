@@ -32,7 +32,7 @@ This is a multi-building infrastructure management system handling real-time mov
 
 ### ER Diagram:
 
-![ER Diagram](./eleveterDB.png)
+![ER Diagram](./smarteleveterDB.png)
 
 # Core Architecture
 
