@@ -1,0 +1,107 @@
+title Smart Elevator Control
+Buildings[icon:building, color: Red]{
+  building_id serial pk 
+  name varchar
+  total_floors int
+  location text
+  created_at timestamp
+  updated_at timestamp
+}
+Floors[color: Blue] {
+  floor_id serial pk
+  building_id varchar fk
+  floor_number int
+  created_at timestamp
+  updated_at timestamp
+}
+Elevator_shaft[color: Green] {
+  shaft_id serial pk
+  building_id varchar fk
+  shaft_label varchar 
+  travel_distance float
+  is_active boolean
+  created_at timestamp
+  updated_at timestamp
+}
+Elevators[color: Yellow] {
+  elevator_id serial pk
+  shaft_id varchar fk
+  model_number varchar
+  capacity int
+  current_floor int
+  status enum('idle','moving_up','moving_down','maintenance','emergency')
+ created_at timestamp
+ updated_at timestamp
+}
+
+Floor_Requests[color: Purple] {
+  request_id serial pk
+  floor_id int fk
+  building_id int fk
+  direction enum('up','down')
+  timestamp datetime
+  request_status enum('pending','fulfilled','cancelled')
+  priority enum('VIP','emergency')default:0
+  request_type enum('internal','external')
+ created_at timestamp
+  updated_at timestamp
+}
+Ride_Assignments[color: Yellow] {
+  assignment_id serial pk
+  request_id varchar fk
+  elevator_id int fk
+  assignment_status enum('active','completed','reassigned','failed')
+  estimated_arrival int 
+ created_at timestamp
+  updated_at timestamp
+}
+Ride_Logs[color: Blue] {
+  ride_id serial pk
+  elevator_id int fk
+  passanger_count int
+ created_at timestamp
+  updated_at timestamp
+}
+Elevator_Status_Tracking[color: Green] {
+  status_id serial pk
+  elevator_id int fk
+  previous_status
+  new_status 
+ created_at timestamp
+  updated_at timestamp
+}
+Maintenance_Schedules[color: Orange] {
+schedule_id serial pk
+elevator_id int fk
+trigger_type enum('time_based','usage_based','sensor_threshold')
+threshold_value
+created_at timestamp
+updated_at timestamp
+}
+Maintenance_Logs[color: Purple] {
+  log_id serial pk
+  schedule_id int fk
+  issue_catogory enum('motor','cables','doors','software','sensors')
+  action_taken text
+  downtime_duration 
+}
+Buildings.building_id < Floors.building_id
+
+Buildings.building_id < Elevator_shaft.building_id
+
+Elevator_shaft.shaft_id - Elevators.shaft_id
+
+Floors.floor_id  < Floor_Requests.floor_id
+
+Floor_Requests.request_id  - Ride_Assignments.request_id
+
+Elevators.elevator_id < Ride_Assignments.elevator_id
+
+Elevators.elevator_id  < Ride_Logs.elevator_id
+
+Elevators.elevator_id < Elevator_Status_Tracking.elevator_id
+
+Elevators.elevator_id  < Maintenance_Schedules.elevator_id
+
+Maintenance_Schedules.schedule_id  > Maintenance_Logs.schedule_id
+
