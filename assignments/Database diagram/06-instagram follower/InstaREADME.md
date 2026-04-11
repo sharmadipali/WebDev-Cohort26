@@ -9,7 +9,9 @@ The database is designed to support core Instagram features including user profi
 ## Tables
 
 ### Users
+
 Stores user account information and authentication details.
+
 - `id`: Primary key, auto-incrementing serial
 - `username`: Unique username (max 50 chars)
 - `email`: Unique email address (max 100 chars)
@@ -23,7 +25,9 @@ Stores user account information and authentication details.
 - `updated_at`: Last update timestamp
 
 ### Posts
+
 Contains user posts including images, videos, and reels.
+
 - `id`: Primary key, auto-incrementing serial
 - `caption`: Post caption (text)
 - `image_url`: URL to post image (nullable)
@@ -34,7 +38,9 @@ Contains user posts including images, videos, and reels.
 - `updated_at`: Last update timestamp
 
 ### Stories
+
 Stores temporary user stories (images/videos).
+
 - `id`: Primary key, auto-incrementing serial
 - `image_url`: URL to story image (nullable)
 - `video_url`: URL to story video (nullable)
@@ -44,7 +50,9 @@ Stores temporary user stories (images/videos).
 - `updated_at`: Last update timestamp
 
 ### Bookmarks
+
 Tracks which posts users have bookmarked.
+
 - `id`: Primary key, auto-incrementing serial
 - `post_id`: Foreign key to Posts.id
 - `author_id`: Foreign key to Users.id (user who bookmarked)
@@ -52,7 +60,9 @@ Tracks which posts users have bookmarked.
 - `updated_at`: Last update timestamp
 
 ### Account_Setting
+
 User privacy and account settings.
+
 - `id`: Primary key, auto-incrementing serial
 - `user_id`: Foreign key to Users.id
 - `is_account_private`: Boolean flag for private accounts
@@ -60,7 +70,9 @@ User privacy and account settings.
 - `updated_at`: Last update timestamp
 
 ### Comments
+
 User comments on posts.
+
 - `id`: Primary key, auto-incrementing serial
 - `author_id`: Foreign key to Users.id (comment author)
 - `post_id`: Foreign key to Posts.id
@@ -69,7 +81,9 @@ User comments on posts.
 - `updated_at`: Last update timestamp
 
 ### Likes
+
 Tracks which posts users have liked.
+
 - `id`: Primary key, auto-incrementing serial
 - `author_id`: Foreign key to Users.id (user who liked)
 - `post_id`: Foreign key to Posts.id
@@ -77,7 +91,9 @@ Tracks which posts users have liked.
 - `updated_at`: Last update timestamp
 
 ### Followers
+
 Manages follower/following relationships between users.
+
 - `id`: Primary key, auto-incrementing serial
 - `user_id`: Foreign key to Users.id (the user being followed)
 - `created_at`: Follow creation timestamp
