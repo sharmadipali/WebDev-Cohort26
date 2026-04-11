@@ -6,11 +6,11 @@ This repository contains the database schema design for an Instagram-like social
 
 The database is designed to support core Instagram features including user profiles, posts (with images/videos/reels), stories, bookmarks, comments, likes, and follower/following relationships.
 
-## Tables
-
 ## Database Diagram
 
 ![Instagram Database Diagram](InstagramFollowDB.png)
+
+## Tables
 
 ### Users
 
