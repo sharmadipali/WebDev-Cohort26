@@ -4,13 +4,9 @@
 
 This document describes the database diagram for an Indian Premier League (IPL) schema. It lists each table and every attribute included in the diagram, along with the declared data type and constraints.
 
-
-
 ## Diagram
 
 ![IPL Database Diagram](IPLDB.png)
-
-
 
 ## Tables and Attributes
 
@@ -90,10 +86,18 @@ This document describes the database diagram for an Indian Premier League (IPL) 
 ## Relationships
 
 - `Teams.team_id` → `Players.team_id`
-- `Teams.owener_id` → `Owners.owener_id`
+  - Each team can have many players.
+- `Teams.owener_id` → `Owners.owner_id`
+  - Each team is linked to one owner.
 - `Teams.team_id` → `Sponsors.team_id`
+  - Each team can have multiple sponsors.
 - `Teams.team_id` → `Matches.team_id`
+  - Each match can reference one team as a participant.
 - `Players.player_id` → `Matches.player_id`
+  - Each match can reference one player.
 - `Stadiums.stadium_id` → `Matches.stadium_id`
+  - Each match takes place at one stadium.
 - `Broadcasters.broadcaster_id` <> `Matches.match_id`
+  - This relation is unclear in the diagram and may indicate a non-standard or missing foreign key link.
+
 
