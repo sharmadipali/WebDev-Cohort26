@@ -270,3 +270,12 @@
 
 <br>
 
+[Callbacks in JavaScript: Why They Exist](https://sharmadipali14.hashnode.dev/callbacks-in-javascript-why-they-exist)
+<a href="https://sharmadipali14.hashnode.dev/callbacks-in-javascript-why-they-exist">
+
+<img width = "500px" alt="Callbacks in JavaScript: Why They Exist" src="assets/callbacks.png">
+<p>
+</a>
+
+<br>
+
